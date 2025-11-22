@@ -7,7 +7,7 @@ Using interactive dashboards, the analysis highlights revenue trends, customer p
 ## 🛠 Tools and Technologies  
 This project leverages a combination of data management, analysis, and visualization tools to deliver clear and actionable insights:
 
-- **SQL**: Used for data extraction, transformation, and aggregation from structured databases, enabling the identification of key trends and patterns.  
+- **SQL(SQL Server Management Studio)**: Used for data extraction, transformation, and aggregation from structured datasets, enabling the identification of key trends and patterns.  
 - **Excel**: Employed for detailed data cleaning, preprocessing, and preliminary analysis, including calculations, pivot tables, and exploratory summaries.  
 - **Tableau**: Utilized to build interactive dashboards that allow stakeholders to explore insights and make data-driven decisions efficiently.
 
