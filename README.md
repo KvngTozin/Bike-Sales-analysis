@@ -1,61 +1,95 @@
-# 📊 Bike Sales Dashboard — Data Analysis Project
-
-## 📁 Project Overview
+## 📊 Bike sales Analysis -A Data analysis project
 This project delivers a comprehensive analysis of bike sales performance with the goal of helping businesses identify high-value customers, top-performing products, and geographic demand patterns.  
-Using interactive dashboards, the project highlights revenue trends, customer purchasing behavior, and product profitability — enabling data-driven decisions in marketing, inventory planning, and sales strategy.
+Using interactive dashboards, the analysis highlights revenue trends, customer purchasing behavior, and product profitability — enabling data-driven decisions in marketing, inventory planning, and sales strategy.
 
 ---
 
-## Tools and Technologies
+## 🛠 Tools and Technologies  
 This project leverages a combination of data management, analysis, and visualization tools to deliver clear and actionable insights:
 
 - **SQL**: Used for data extraction, transformation, and aggregation from structured databases, enabling the identification of key trends and patterns.  
-- **Excel**: Employed for detailed data cleaning, preprocessing, and preliminary analysis, including calculations, pivot tables, and exploratory data summaries.  
-- **Tableau**: Utilized for interactive and visually engaging dashboards that allow stakeholders to explore insights and make data-driven decisions efficiently.
+- **Excel**: Employed for detailed data cleaning, preprocessing, and preliminary analysis, including calculations, pivot tables, and exploratory summaries.  
+- **Tableau**: Utilized to build interactive dashboards that allow stakeholders to explore insights and make data-driven decisions efficiently.
 
 ---
 
-## 🎯 Objectives
-- Identify the most valuable customers that generate the most income
-- Identify the products that sell the most 
-- Identify the main location where the products come from
-- Identify the most in-demand products
-- Identify the least-selling products
-- Identify favourable months for sales
+## 🎯 Objectives  
+- Identify the most valuable customers generating the highest revenue  
+- Identify the best-selling products  
+- Determine the top-performing locations  
+- Highlight the most in-demand products  
+- Identify products with the lowest sales  
+- Determine the most favourable months for sales  
+
 ---
 
-## 🛠 Process / Methodology
+## 🔍 Process / Methodology  
 
-### 1. Data Cleaning
-- Removed duplicates  
+### **1. Data Cleaning**  
+- Removed duplicate records  
 - Handled missing values  
-- Normalized the data to ensure data integrity
-  
+- Normalized and validated data for accuracy  
 
-### 2. Exploratory Data Analysis (EDA)
-- Analyzed bike purchase patterns across:
-  - Location 
-  - Gender   
-  - Income levels
-  - Specific months
+### **2. Exploratory Data Analysis (EDA)**  
+Analyzed bike purchase patterns across:  
+- Geographic location  
+- Gender  
+- Income levels  
+- Monthly sales cycles  
 
-### 3. Dashboard Creation
-- Built KPIs
-- Designed an interactive dashboard showing:
-  - Top 5 paying products  
-  - Top 5 customers
-  - Average sale of each month 
-  - The main location that sells the most products 
+### **3. Dashboard Creation (Tableau)**  
+Designed and developed interactive dashboards featuring:  
+- KPIs  
+- Top 5 paying products  
+- Top 5 customers  
+- Monthly average sales performance  
+- Best-performing sales locations  
+
+---
+
+## 📈 Key Insights  
+- **Texas** recorded the highest number of product purchases  
+- The best-selling product is **not** the most in-demand product  
+- The top paying customer made the most orders — none were from the most expensive product  
+- **April and May** experienced the highest sales activity  
+
 
 ---
 
-## 📈 Key Insights
-- The majority of the products were sold to customers in Texas
-- The product that sells the most isn't the most in demand
-- The top paying customer has the most orders, and none is from the most expensive product
-- April and May is when sales peak
+## 🧭 Recommendations  
+Based on the analysis, the following actions are recommended to improve sales performance and customer targeting:
+
+1. **Strengthen Marketing Efforts in Texas**  
+   Since Texas accounts for the majority of purchases, targeted campaigns and promotional offers in this region can further boost revenue.
+
+2. **Re-evaluate Inventory for In-Demand but Lower-Selling Products**  
+   Some products are highly demanded but not among the best-selling.  
+   This suggests potential issues with:
+   - stock availability  
+   - pricing strategies  
+   - distribution  
+   Conducting a product availability review can help capture lost sales.
+
+3. **Focus Upselling Strategies on Top Customers**  
+   High-value customers place frequent orders but not for the most expensive products.  
+   Use loyalty programs, bundle offers, or premium product recommendations to increase average order value.
+
+4. **Increase Stock and Promotions During Peak Months (April–May)**  
+   With sales peaking in these months, businesses should ensure:
+   - higher stock levels  
+   - season-specific campaigns  
+   - targeted email marketing  
+
+5. **Optimize Low-Selling Products**  
+   Products with consistently low sales should be reviewed for:
+   - pricing issues  
+   - low demand  
+   - poor visibility  
+   Consider either repositioning them or phasing them out to reduce inventory costs.
+
 
 ---
+
 
 ## 🖼 Dashboard Screenshots
 
